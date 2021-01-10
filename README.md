@@ -10,3 +10,5 @@ Followed Intro to React Hooks lecture by Nomadcoders.co
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
+- [x] useFadeIn
+- [x] useNetwork
