@@ -1,5 +1,5 @@
 # common-react-hooks
-This is the collection of common React Hooks ready to install with NPM, and Yarn.
+This is the collection of common React Hooks which are mainly utilizing browser default event listeners.
 
 - [x] useTitle
 - [x] useTabs
